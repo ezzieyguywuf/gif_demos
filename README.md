@@ -8,3 +8,11 @@ Preview
 <p align="center">
   <img src="https://github.com/ezzieyguywuf/gif_demos/blob/master/20210517_Pong_ECS_optimized.gif" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/ezzieyguywuf/gif_demos/blob/master/mycad_drawEntity.gif" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ezzieyguywuf/gif_demos/blob/master/mycad_firstDemo.gif" />
+</p>
