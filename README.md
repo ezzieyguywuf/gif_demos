@@ -1,7 +1,10 @@
-Here is the raw one:
+This repository will host various demo gifs for my github projects. This way,
+anyone who clones the projects themselves won't also need to download a copy of
+the demo gif.
 
-![](https://github.com/ezzieyguywuf/gif_demos/blob/master/20210517_Pong_ECS.gif)
+Preview
+-------
 
-Here is the optimized one:
-
-![](https://github.com/ezzieyguywuf/gif_demos/blob/master/20210517_Pong_ECS_optimized.gif)
+<p align="center">
+  <img src="https://github.com/ezzieyguywuf/gif_demos/blob/master/20210517_Pong_ECS_optimized.gif" />
+</p>
