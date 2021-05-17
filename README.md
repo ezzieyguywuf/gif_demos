@@ -10,7 +10,7 @@ Preview
 </p>
 
 <p align="center">
-  <img src="https://github.com/ezzieyguywuf/gif_demos/blob/master/mycad_drawEntity.gif" />
+  <img src="https://github.com/ezzieyguywuf/gif_demos/blob/master/mycad_drawEntity_optimized.gif" />
 </p>
 
 <p align="center">
